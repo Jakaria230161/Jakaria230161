@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with **Outstanding video and content**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Jakaria230161](https://github.com/Jakaria230161)
+- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/jakaria230161/sites]
 
 - 💬 Ask me about **HTML,CSS, JAVASCRIPT, BOOTSTRAPS, TAILWIND CSS**
 
