@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **JavaScript**
 
-- 🌱 I’m currently learning **Bootstraps, Tailwind CSS, JavaScript**
+- 🌱 I’m currently learning **React,React Router, React Authentication**
 
 - 👯 I’m looking to collaborate on **My Projects**
 
